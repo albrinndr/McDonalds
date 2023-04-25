@@ -1,0 +1,266 @@
+body {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+
+
+/* Header content */
+.main-logo {
+    float: left;
+}
+
+.nav-item {
+    display: inline;
+    padding-right: 22px;
+    cursor: pointer;
+}
+
+.right {
+    float: right;
+}
+
+.nav-bar {
+    padding: 18px 174.5px 0px 174px;
+
+    height: 116px;
+}
+
+header {
+    /* box-shadow: 0px 2px 25px grey; */
+    box-shadow: 0px 15px 10px -21px grey;
+
+
+}
+
+.nav-main {
+    margin-right: 10px;
+
+    margin-top: -10px;
+}
+
+.btn {
+    background-color: #ffbc0d;
+    border: none;
+    padding: 10px 16px 13px 23px;
+    ;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+a {
+    color: #026caf;
+
+    text-decoration: underline;
+    margin-right: 16px;
+}
+
+.left {
+    margin-left: 65px;
+}
+
+.search {
+    margin-right: 33px;
+}
+
+.order-btn {
+    margin-right: 15px;
+    margin-top: -16px;
+}
+
+.nav-main-bottom {
+    margin-top: 32px;
+}
+
+.nav-main-top {
+    margin-top: -13px;
+}
+
+.gps {
+    width: 20px;
+    position: absolute;
+    right: 491px;
+    top: 24px;
+}
+
+.search-logo {
+    width: 20px;
+    position: absolute;
+    right: 585px;
+    top: 25px;
+}
+
+.down1 {
+    position: absolute;
+    left: 350px;
+    top: 23px;
+}
+
+.down-icon1 {
+    width: 11px;
+}
+
+.signup {
+    margin-left: 33px;
+}
+
+.down2 {
+    position: absolute;
+    left: 363px;
+    top: 82px;
+}
+
+.download {
+    margin-left: 21px;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: #292929;
+}
+
+/* Main Section */
+
+.container {
+    padding-left: 183px;
+    padding-right: 185px;
+    padding-top: 99px;
+}
+
+.banner {
+    float: left;
+    width: 746px;
+    height: 330px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.star {
+    font-size: 11px;
+    margin-top: 20px;
+    line-height: 15px;
+}
+
+.content {
+    margin-top: 10px;
+    margin-left: 764px;
+    padding-left: 10px;
+}
+
+.description {
+    margin-top: 27px;
+}
+
+.content-btn {
+    margin-top: 43px;
+}
+
+/* footer */
+footer {
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+
+.top {
+    display: flex;
+    margin-top: 68px;
+
+
+}
+
+.footer-des-data {
+    cursor: pointer;
+
+}
+
+.about {
+    padding-left: 15px;
+}
+
+.service {
+    padding-left: 69px;
+}
+
+.community {
+    padding-left: 89px;
+}
+
+.contact-us {
+    padding-left: 100px;
+}
+
+.footer-descriptions {
+    line-height: 28px;
+}
+
+.middle {
+    margin-top: 68px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+
+
+}
+
+.social-logo {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.store-logo {
+    float: right;
+    cursor: pointer;
+
+
+}
+
+.bottom {
+    margin-bottom: 100px;
+    margin-top: 40px;
+
+}
+
+.footer-image {
+    position: absolute;
+    float: right;
+    width: 28px;
+    right: 520px;
+}
+
+.foot-right {
+    float: right;
+    cursor: pointer;
+}
+
+.bottom-con {
+    margin-right: 37px;
+    cursor: pointer;
+}
+
+.down {
+    margin-top: 16px;
+}
+
+.reser {
+    position: relative;
+    top: 20px;
+    right: -416px;
+    cursor: pointer;
+}
+
+
+/* .line{
+    margin-top: 60px;
+    color: #dcdcdc;
+   
+} */
